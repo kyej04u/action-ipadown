@@ -49,3 +49,4 @@ To use these operations, enter your app informations like this:
 
 - ipatool-py: https://github.com/NyaMisty/ipatool-py
 - actions-iTunes-header: https://github.com/NyaMisty/actions-iTunes-header
+
